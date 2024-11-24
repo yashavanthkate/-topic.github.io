@@ -1,17 +1,41 @@
-# Project Name
+## Portfolio
 
-A brief description of what this project does and who it's for.
+### Hello, I'm Yashavanth 👋
 
-## Table of Contents
-lkdpp
+I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
-hello world
+## 🛠️ Projects
+- **Project 1**: A short description of your project.
+- **Project 2**: A short description of another project.
 
-- [Installation](#installation)
-- [Usage](#usage)eioe
-- [Contributing](#contributing)
-- [License](#license)
+## 🚀 Skills
+- C++, Python, JavaScript
+- Data Structures and Algorithms
+- Web Development (React.js, Node.js)
 
-##Installation
+## 🌐 Find Me Online
+- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
-Instructions on how to install and set up the project.
+## Portfolio Topic
+
+<dl>
+<dt>Course Name</dt>
+<dd>Algorithmic Problem Solving</dd>
+<dt>Course Code</dt>
+<dd>Course Code Placeholder</dd>
+<dt>Name</dt>
+<dd>Yashavanth kate</dd>
+<dt>SRN</dt>
+<dd>01FE24BCS418/dd>
+<dt>Course Instructor</dt>
+<dd>Instructor Name Placeholder</dd>
+<dt>University</dt>
+<dd>KLE Technological University</dd>
+<dt>Portfolio Topic/Domain</dt>
+<dd>Google</dd>
+</dl>
+
+<br> 
+> “The only way to do great work is to love what you do.” – Steve Jobs
+>
